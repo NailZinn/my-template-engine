@@ -3,7 +3,7 @@
 ## Как использовать
 
 ```cs
-var template = "{{for number in numbers}}{{numbers}} ";
+var template = "{{for number in numbers}}{{numbers}} {{end}}";
 var result = new EngineHTMLService().GetHTML(template, new List<int> {1, 2, 3});
 // output: 1 2 3
 ```
