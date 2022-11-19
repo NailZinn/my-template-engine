@@ -1,4 +1,4 @@
-# my-template-engine
+# my-template-engine (Зиннуров Наиль 11-106)
 
 ## Как использовать
 
